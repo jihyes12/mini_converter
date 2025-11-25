@@ -15,8 +15,6 @@ mini_converter는 일상에서 자주 사용하는 다양한 단위를
 - 온도 변환 (°C ↔ °F)
 - 부피 변환 (L ↔ gal)
 
-이 프로젝트를 통해 파이썬 패키지 구조, 모듈 분리, 설치 방식, README 작성법 등을 연습할 수 있습니다.
-
 ---
 
 ##  패키지 구조
@@ -87,15 +85,14 @@ print("2 gal →", gallon_to_liter(2), "L")
 
 
 
-```
 
-```
+![demo result](images/demo.png)
+
+
 
 ---
 
 ##  테스트 실행
-
-(선택 사항)
 
 ```
 pytest
