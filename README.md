@@ -25,9 +25,9 @@ mini_converter/
 ├── mini_converter
 │   ├── __init__.py
 │   ├── length.py
-│   ├── weight.py
 │   ├── temperature.py
 │   ├── volume.py
+│   └── weight.py
 │
 ├── examples
 │   └── demo.py
@@ -35,9 +35,12 @@ mini_converter/
 ├── tests
 │   └── test_converter.py
 │
+├── images
+│   └── demo.png
+│
 ├── README.md
-├── setup.py
-└── requirements.txt
+└── setup.py
+
 ```
 
 ---
