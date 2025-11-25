@@ -94,8 +94,6 @@ print("2 gal →", gallon_to_liter(2), "L")
 
 ##  테스트 실행
 
-(선택 사항)
-
 ```
 pytest
 ```
