@@ -86,7 +86,7 @@ print("2 gal →", gallon_to_liter(2), "L")
 
 
 ```
-<img width="927" height="367" alt="image" src="https://github.com/user-attachments/assets/a5c5713f-6990-498b-8647-070f8503de99" />
+![demo result](images/demo.png)
 
 ```
 
