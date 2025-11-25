@@ -85,10 +85,10 @@ print("2 gal →", gallon_to_liter(2), "L")
 
 
 
-```
+
 ![demo result](images/demo.png)
 
-```
+
 
 ---
 
